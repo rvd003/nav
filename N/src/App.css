@@ -1,0 +1,19 @@
+.navbar{
+  display: flex;
+  background-color: black;
+  color: white;
+  justify-content: space-around;
+}
+.link{
+  display: flex;
+  background-color: black;
+  color: white;
+  justify-content: space-between;
+}
+.link>div{
+  margin-left: 5px;
+}
+button{
+  background-color: rgb(132, 214, 214);
+  border-radius: 15px;
+}
